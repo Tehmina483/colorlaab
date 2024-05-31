@@ -110,9 +110,6 @@ header {
     font-weight: 600;
     transition: .3s;
 }
-.active_navbar_color {
-    color: #96bb7c !important;
-}
 .navbar_menu_list_container li a:hover {
     color: #96bb7c;
 }
